@@ -1,0 +1,39 @@
+#Home {
+    background-color: aliceblue;
+    text-align: center;
+    padding: 2rem;
+   }
+   
+   #Home , p {
+     color: cadetblue;
+      font-family: fantasy;
+   }
+   
+   
+   form {
+     padding-left: 1rem;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   
+   label {
+     cursor: pointer;
+   }
+   .input-container {
+         margin-bottom: 10px;
+       }
+   
+       label {
+         margin-left: 5px;
+       }
+   
+       #item-list {
+         margin-top: 20px;
+       }
+   
+       button {
+         margin-top: 10px;
+         padding: 10px 15px;
+         font-size: 16px;
+         cursor: pointer;
+       }
+   
